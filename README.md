@@ -1,3 +1,12 @@
+On Netlify:
+
+- build command: `yarn build`
+- publish directory `build/`
+
+Everything else is on default.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
